@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "City 1",
+    "asOfDate": "Q1 2021"
+  },
+  {
+    "id": 2,
+    "name": "City 1",
+    "asOfDate": "Q2 2021"
+  },
+  {
+    "id": 3,
+    "name": "City 1",
+    "asOfDate": "Q3 2021"
+  },
+  {
+    "id": 4,
+    "name": "City 1",
+    "asOfDate": "Q4 2021"
+  },
+  {
+    "id": 12,
+    "name": "City 1",
+    "asOfDate": "Q1 2018"
+  },
+  {
+    "id": 13,
+    "name": "City 1",
+    "asOfDate": "Q2 2018"
+  },
+  {
+    "id": 14,
+    "name": "City 1",
+    "asOfDate": "Q3 2018"
+  },
+  {
+    "id": 15,
+    "name": "City 1",
+    "asOfDate": "Q4 2018"
+  },
+  {
+    "id": 10,
+    "name": "City 1",
+    "asOfDate": "Q3 2020"
+  },
+  {
+    "id": 11,
+    "name": "City 1",
+    "asOfDate": "Q4 2019"
+  },
+  {
+    "id": 5,
+    "name": "City 2",
+    "asOfDate": "Q3 2020"
+  },
+  {
+    "id": 6,
+    "name": "City 2",
+    "asOfDate": "Q2 2019"
+  },
+  {
+    "id": 7,
+    "name": "City 3",
+    "asOfDate": "Q3 2018"
+  },
+  {
+    "id": 8,
+    "name": "City 4",
+    "asOfDate": "Q4 2021"
+  },
+  {
+    "id": 9,
+    "name": "City 5",
+    "asOfDate": "Q2 2019"
+  }
+]

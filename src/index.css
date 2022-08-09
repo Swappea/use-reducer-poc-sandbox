@@ -1,0 +1,70 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.view {
+  width: 1200px;
+  height: 500px;
+  border: 1px solid red;
+  padding: 40px;
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+.view .container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  column-gap: 60px;
+  row-gap: 60px;
+}
+
+.view label {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+
+.view select {
+  height: 40px;
+  width: 230px;
+  padding: 10px;
+}
+
+.run {
+  background-color: burlywood;
+  color: #000;
+  height: 40px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.run:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
